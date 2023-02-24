@@ -1,0 +1,2 @@
+# DiscordRiots
+Discord game bot
